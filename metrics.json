@@ -1,0 +1,15 @@
+{
+  "job_count": 50,
+  "model_tag_count": 200,
+  "right_tag_count": 170,
+  "right_required_tag_count": 150,
+  "right_optional_tag_count": 20,
+  "wrong_tag_count": 30,
+  "tag_right_rate_percent": 85.0,
+  "required_skill_count": 177,
+  "required_skill_hit_count": 150,
+  "missed_required_count": 27,
+  "required_skill_miss_rate_percent": 15.25,
+  "required_skill_coverage_percent": 84.75,
+  "optional_skill_count": 50
+}
